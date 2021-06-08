@@ -1,1 +1,3 @@
 # new
+hello 
+example exercise
